@@ -1,5 +1,5 @@
 # Vending Machine Course Work
-Course work for Technical University - Sofia 1 Course
+Course work for Technical University - Sofia (first semester) 
 
 ## Task
 Write a C program which imitates how a Vending Machine works. The Machine has `x` number of rows and `y` number of columns and respectively 3 cells can fit on each cell. Each product has a name, type, weight, price and number. Before starting the machine, the products must be arranged from bottom to top according to the following criteria:
